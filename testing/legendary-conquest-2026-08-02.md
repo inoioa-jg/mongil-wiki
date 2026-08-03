@@ -11,12 +11,12 @@ observed_on: 2026-08-02
 
 | Element | Score | Status |
 |---|---:|---|
-| Ice | 691,000 | completed benchmark; user-corrected |
-| Wind | 722,000 | completed benchmark |
-| Lightning | 806,000 | completed; full rewards |
+| Ice | ~691,000 | completed benchmark; rounded |
+| Wind | ~722,000 | completed benchmark; rounded |
+| Lightning | ~806,000 | completed; full rewards; rounded |
 
-- Confirmed rotation total: **2,219,000**.
-- Lightning exceeded the full-reward target by **6,000**.
+- Exact confirmed rotation total: **2,220,536**.
+- Lightning exceeded the full-reward target by approximately **6,000**.
 
 ## Known context
 
