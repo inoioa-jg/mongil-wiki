@@ -1,6 +1,6 @@
 ---
 subject: Legendary Conquest Lightning Ice Wind rotation
-status: in_progress
+status: completed
 source_confidence: in_game
 observed_on: 2026-08-02
 ---
@@ -13,10 +13,10 @@ observed_on: 2026-08-02
 |---|---:|---|
 | Ice | 699,000 | completed benchmark |
 | Wind | 722,000 | completed benchmark |
-| Lightning | 800,000 | target |
+| Lightning | 806,000 | completed; full rewards |
 
-- Confirmed score subtotal: **1,421,000**.
-- Total if Lightning reaches target: **2,221,000**.
+- Confirmed rotation total: **2,227,000**.
+- Lightning exceeded the full-reward target by **6,000**.
 
 ## Known context
 
@@ -27,4 +27,3 @@ observed_on: 2026-08-02
   he had rebuilt enough Ice Crystals.
 - Sera is currently A3. A future A6 Sera is a candidate to improve sustained Ice
   damage; A4 alone is not considered the target breakpoint.
-
