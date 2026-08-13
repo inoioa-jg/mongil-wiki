@@ -25,9 +25,12 @@ damage can outweigh one of the more-invested slots.
 
 ## Wind
 
-Favored core: Esther / Jiwon / Bonnie. The tuned version cleared Raging Amon 10
-in 2:53. See `testing/raging-amon-10-wind-baseline.md` for the known Monsterling
-allocation and missing control variables.
+Favored Legendary Conquest core: Esther / Jiwon / Nagi. Swapping Nagi into the
+previous Esther / Jiwon / Bonnie team raised the reported Wind score from
+approximately 722,000 to 736,000 on 2026-08-13 (`in_game`, user-provided). The
+tuned Bonnie version remains the recorded Raging Amon 10 baseline at 2:53. See
+`testing/legendary-conquest-2026-08-02.md` and
+`testing/raging-amon-10-wind-baseline.md`.
 
 ## Earth
 
