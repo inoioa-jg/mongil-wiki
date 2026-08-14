@@ -14,7 +14,13 @@ As reported in game on 2026-08-02: **Lightning / Ice / Wind**.
 
 ## Lightning
 
-Favored core: Mabel / Reina / Yeonhwa. Rationale: Mabel field window, Reina contribution, and Yeonhwa's low-field-time/off-field utility. Candidate allocation: Gulgak on Yeonhwa, pending off-field proc and refresh tests. Average team crit rate is approximately 65% or higher (`in_game`, user-provided).
+Current record team: **Mabel / Reina / Yeonhwa**, approximately 820,000 on
+2026-08-14 (`in_game`, user-provided). The whole team now wears Lightning gear;
+completing Reina's Lightning set coincided with an increase from approximately
+806,000 to 820,000. Rationale: Mabel field window, Reina contribution, and
+Yeonhwa's low-field-time/off-field utility. Candidate allocation: Gulgak on
+Yeonhwa, pending off-field proc and refresh tests. Average team crit rate is
+approximately 65% or higher (`in_game`, user-provided).
 
 ## Ice
 
