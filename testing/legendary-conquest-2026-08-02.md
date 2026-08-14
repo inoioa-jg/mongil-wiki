@@ -29,8 +29,8 @@ observed_on: 2026-08-02
   were not reported as controlled.
 - The prior Ice benchmark was approximately 691,000. The new approximately
   730,000 record is an improvement of approximately 39,000 points (about 5.6%).
-  The lineup, rotation, equipment, food, and Monsterling activation for the new
-  record have not yet been reported.
+  The confirmed lineup was **Ophelia / Cloud / Narae**. Rotation, equipment,
+  food, and Monsterling activation for the new record have not yet been reported.
 - Cloud's downtime was noticeable because the team rotation returned to him before
   he had rebuilt enough Ice Crystals.
 - Sera is currently A3. A future A6 Sera is a candidate to improve sustained Ice

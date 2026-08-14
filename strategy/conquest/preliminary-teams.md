@@ -18,10 +18,10 @@ Favored core: Mabel / Reina / Yeonhwa. Rationale: Mabel field window, Reina cont
 
 ## Ice
 
-Initial account-investment core: Cloud / Sara / Narae. Narae is A0F1, so credit
-her base Ice/Special amplification and artifact contribution, but not her A1 Ice
-RES reduction. Ophelia A0F1 remains the comparison candidate if her personal
-damage can outweigh one of the more-invested slots.
+Current record team: **Ophelia / Cloud / Narae**, approximately 730,000 on
+2026-08-14 (`in_game`, user-provided). This supersedes Cloud / Sara / Narae as
+the favored lineup. Narae is A0F1, so credit her base Ice/Special amplification
+and artifact contribution, but not her A1 Ice RES reduction.
 
 ## Wind
 
