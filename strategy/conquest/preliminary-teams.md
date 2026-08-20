@@ -38,9 +38,11 @@ tuned Bonnie version remains the recorded Raging Amon 10 baseline at 2:53. See
 `testing/legendary-conquest-2026-08-02.md` and
 `testing/raging-amon-10-wind-baseline.md`.
 
-Jiwon reached A2 through the Harmonious reroll on 2026-08-20 (`in_game`,
-user-provided). This adds her A1 shortened setup/off-field behavior and A2 ATK
-support; the 736,000 record predates this upgrade and should be retested.
+Jiwon was discovered to have already been A1 before receiving two copies through
+the Harmonious reroll on 2026-08-20, bringing her to A3 (`in_game`,
+user-provided). She therefore has the A1 shortened setup/off-field behavior, A2
+ATK support, and A3 skill-level increase. The 736,000 record predates these
+recorded upgrades and should be retested.
 
 ## Earth
 
@@ -58,5 +60,6 @@ requirements; investment alone is not decisive.
 Harmonious-banner conclusion (`hypothesis`): Flare A2 may warrant a controlled
 support comparison because it unlocks the shared 14% Fire DMG boost, but Flare A3
 primarily adds skill levels and Tag-out damage to a low-personal-damage unit. Do
-not expect A3 Flare's damage to displace A0 Mina or A5F6 Angel. Jiwon A2 was
-therefore selected as the first Harmonious-banner destination.
+not expect A3 Flare's damage to displace A0 Mina or A5F6 Angel. Two Jiwon copies
+were therefore selected as the first Harmonious-banner result; because she was
+already A1, the actual destination was Jiwon A3.

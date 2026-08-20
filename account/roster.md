@@ -26,5 +26,5 @@ Confidence: `in_game` (user-provided account state)
 | Ice | Narae | A0 | F1 |
 | Wind | Bonnie | A6 | F6 |
 | Wind | Nagi | A0 | F1 |
-| Wind | Jiwon | A2 | F1 |
+| Wind | Jiwon | A3 | F1 |
 | Wind | Esther | A0 | F0 |
