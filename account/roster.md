@@ -21,7 +21,7 @@ Confidence: `in_game` (user-provided account state)
 | Earth | Francis | A6 | F6 |
 | Earth | Gabi | A0 | F1 |
 | Earth | Summer Francis | A0 | F0 |
-| Earth | Brishell | A0 | unknown |
+| Earth | Brishell | A0 | F1 |
 | Ice | Cloud | A6 | F6 |
 | Ice | Sara | A3 | F2 |
 | Ice | Ophelia | A2 | F1 |

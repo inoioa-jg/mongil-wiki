@@ -56,9 +56,11 @@ Compare Ellie / Francis / Narae against Ellie / Francis / Gabi. Determine whethe
 
 Verified Narae contributions for Ellie: Special Skill Damage; at F1, Basic Attack Damage while Ellie is shielded (`in_game`).
 
-Brishell A0 was obtained on 2026-08-20. She is an Earth Assassin whose previewed
-role is DEF-reducing swap/sub-DPS (`community`). Add her as a comparison candidate
-after her exact in-game kit and artifact state are recorded.
+Brishell A0F1 was obtained on 2026-08-20. She is an Earth Assassin whose
+previewed role is DEF-reducing swap/sub-DPS (`community`). Her signature is
+specifically oriented toward Support and Switch Skill contribution, making
+Brishell / Ellie / Francis or Brishell / Ellie / Narae controlled comparisons
+worth prioritizing after her exact in-game kit is recorded.
 
 ## Fire
 
