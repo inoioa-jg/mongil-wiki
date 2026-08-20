@@ -46,4 +46,14 @@ Verified Narae contributions for Ellie: Special Skill Damage; at F1, Basic Attac
 
 ## Fire
 
-Compare Summer Verna / Angel / Leeho against Summer Verna / Angel / Summer Francis. Measure support amplification, personal damage, rotation cost, uptime, and field-time requirements; investment alone is not decisive.
+Angel is now A5F6 (`in_game`, user-provided, 2026-08-20). Compare Summer Verna /
+Angel / Leeho against Summer Verna / Angel / Summer Francis. Measure support
+amplification, personal damage, rotation cost, uptime, and field-time
+requirements; investment alone is not decisive.
+
+Harmonious-banner conclusion (`hypothesis`): Flare A2 may warrant a controlled
+support comparison because it unlocks the shared 14% Fire DMG boost, but Flare A3
+primarily adds skill levels and Tag-out damage to a low-personal-damage unit. Do
+not expect A3 Flare's damage to displace A0 Mina or A5F6 Angel. Accordingly,
+Jiwon A2 is the more valuable two-token destination than Flare A3 unless testing
+shows Flare A2's team amplification wins a Fire slot.

@@ -1,12 +1,12 @@
 # Account roster
 
-Last updated: 2026-07-29  
+Last updated: 2026-08-20  
 Confidence: `in_game` (user-provided account state)
 
 | Element | Character | Awakening | Fate |
 |---|---|---:|---:|
 | Fire | Summer Verna | A2 | F6 |
-| Fire | Angel | A4 | F6 |
+| Fire | Angel | A5 | F6 |
 | Fire | Flare | A1 | F0 |
 | Fire | Mina | A0 | F0 |
 | Fire | Leeho | A1 | F2 |
