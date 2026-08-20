@@ -27,7 +27,9 @@ approximately 65% or higher (`in_game`, user-provided).
 Current record team: **Ophelia / Cloud / Narae**, approximately 730,000 on
 2026-08-14 (`in_game`, user-provided). This supersedes Cloud / Sara / Narae as
 the favored lineup. Narae is A0F1, so credit her base Ice/Special amplification
-and artifact contribution, but not her A1 Ice RES reduction.
+and artifact contribution, but not her A1 Ice RES reduction. Ophelia subsequently
+reached A2 through the Harmonious reroll on 2026-08-20, so the record should be
+retested.
 
 ## Wind
 
@@ -44,11 +46,19 @@ user-provided). She therefore has the A1 shortened setup/off-field behavior, A2
 ATK support, and A3 skill-level increase. The 736,000 record predates these
 recorded upgrades and should be retested.
 
+Sangun A0 was also obtained from the Harmonious result. Compare
+Sangun / Esther / Jiwon against Esther / Nagi / Jiwon; do not assume the new
+5-star wins without a controlled score because A0 Sangun requires field time.
+
 ## Earth
 
 Compare Ellie / Francis / Narae against Ellie / Francis / Gabi. Determine whether Gabi's personal contribution offsets field time removed from A6F6 Ellie. Do not pair Francis with Summer Francis merely to layer their non-stacking support buffs.
 
 Verified Narae contributions for Ellie: Special Skill Damage; at F1, Basic Attack Damage while Ellie is shielded (`in_game`).
+
+Brishell A0 was obtained on 2026-08-20. She is an Earth Assassin whose previewed
+role is DEF-reducing swap/sub-DPS (`community`). Add her as a comparison candidate
+after her exact in-game kit and artifact state are recorded.
 
 ## Fire
 
