@@ -38,6 +38,10 @@ tuned Bonnie version remains the recorded Raging Amon 10 baseline at 2:53. See
 `testing/legendary-conquest-2026-08-02.md` and
 `testing/raging-amon-10-wind-baseline.md`.
 
+Jiwon reached A2 through the Harmonious reroll on 2026-08-20 (`in_game`,
+user-provided). This adds her A1 shortened setup/off-field behavior and A2 ATK
+support; the 736,000 record predates this upgrade and should be retested.
+
 ## Earth
 
 Compare Ellie / Francis / Narae against Ellie / Francis / Gabi. Determine whether Gabi's personal contribution offsets field time removed from A6F6 Ellie. Do not pair Francis with Summer Francis merely to layer their non-stacking support buffs.
@@ -54,6 +58,5 @@ requirements; investment alone is not decisive.
 Harmonious-banner conclusion (`hypothesis`): Flare A2 may warrant a controlled
 support comparison because it unlocks the shared 14% Fire DMG boost, but Flare A3
 primarily adds skill levels and Tag-out damage to a low-personal-damage unit. Do
-not expect A3 Flare's damage to displace A0 Mina or A5F6 Angel. Accordingly,
-Jiwon A2 is the more valuable two-token destination than Flare A3 unless testing
-shows Flare A2's team amplification wins a Fire slot.
+not expect A3 Flare's damage to displace A0 Mina or A5F6 Angel. Jiwon A2 was
+therefore selected as the first Harmonious-banner destination.
