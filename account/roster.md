@@ -7,7 +7,7 @@ Confidence: `in_game` (user-provided account state)
 |---|---|---:|---:|
 | Fire | Summer Verna | A2 | F6 |
 | Fire | Verna | A2 | unknown |
-| Fire | Angel | A5 | F6 |
+| Fire | Angel | A6 | F6 |
 | Fire | Flare | A1 | F0 |
 | Fire | Mina | A0 | F0 |
 | Fire | Leeho | A2 | F2 |
@@ -23,7 +23,7 @@ Confidence: `in_game` (user-provided account state)
 | Earth | Summer Francis | A0 | F0 |
 | Earth | Brishell | A0 | F1 |
 | Ice | Cloud | A6 | F6 |
-| Ice | Sara | A3 | F2 |
+| Ice | Sara | A5 | F2 |
 | Ice | Ophelia | A2 | F1 |
 | Ice | Narae | A0 | F1 |
 | Wind | Bonnie | A6 | F6 |

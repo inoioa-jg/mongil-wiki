@@ -29,7 +29,9 @@ Current record team: **Ophelia / Cloud / Narae**, approximately 730,000 on
 the favored lineup. Narae is A0F1, so credit her base Ice/Special amplification
 and artifact contribution, but not her A1 Ice RES reduction. Ophelia subsequently
 reached A2 through the Harmonious reroll on 2026-08-20, so the record should be
-retested.
+retested. Sara subsequently reached A5F2 (`in_game`, user-provided, 2026-08-20);
+this increases her investment but does not by itself establish that she replaces
+Ophelia in the record team.
 
 ## Wind
 
@@ -67,7 +69,7 @@ See `data/characters/earth/brishell.md` for the evidence boundary and kit data.
 
 ## Fire
 
-Angel is now A5F6 (`in_game`, user-provided, 2026-08-20). Compare Summer Verna /
+Angel is now A6F6 (`in_game`, user-provided, 2026-08-20). Compare Summer Verna /
 Angel / Leeho against Summer Verna / Angel / Summer Francis. Measure support
 amplification, personal damage, rotation cost, uptime, and field-time
 requirements; investment alone is not decisive.
