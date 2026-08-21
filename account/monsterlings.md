@@ -13,6 +13,7 @@ Known Lightning monsterlings discussed for allocation: Hahnul, Gulgak, Scar.
   has not been explicitly confirmed.
 - **Angel:** Fiend (Link status not reported), Amon, Gulgak (`in_game`,
   user-provided, 2026-08-20).
-- **Mina:** Duoxini and El Dorado Guardian; third Monsterling not yet selected
-  (`in_game`, user-provided, 2026-08-20). Do not attribute Summer Verna's Scar
-  and Ice Fist Dude to Mina.
+- **Mina:** Duoxini, El Dorado Guardian, Ice Fist Dude (`in_game`,
+  user-provided, 2026-08-20). This is a second Ice Fist Dude, separate from
+  Summer Verna's copy. Duoxini should occupy the Link slot; exact equipped slot
+  order has not been explicitly confirmed.

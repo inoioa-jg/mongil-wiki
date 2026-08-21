@@ -20,5 +20,4 @@ Known Monsterling allocation at the time of recording:
 
 - Summer Verna: Cinder, Scar, Ice Fist Dude.
 - Angel: Fiend, Amon, Gulgak.
-- Mina: Duoxini and El Dorado Guardian; the final third Monsterling used in the
-  scored run was not reported.
+- Mina: Duoxini, El Dorado Guardian, Ice Fist Dude.
