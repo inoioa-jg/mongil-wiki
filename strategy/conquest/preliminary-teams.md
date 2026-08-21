@@ -11,8 +11,10 @@ Teams contain three characters. Cross-element support is allowed when account-le
 ## Current event status
 
 The event was fully cleared on 2026-08-20 with maximum rewards in Earth, Fire,
-and Lightning. See `testing/conquest-event-full-clear-2026-08-20.md`. Further
-optimization of these three scores is optional rather than progression-critical.
+and Lightning. The exact final score was **2,455,687**, placing the account in
+the **top 7.6% worldwide** (`in_game`, user-provided). See
+`testing/conquest-event-full-clear-2026-08-20.md`. Further optimization of these
+three scores is optional rather than progression-critical.
 
 ## Current Legendary rotation
 
