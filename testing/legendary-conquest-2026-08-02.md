@@ -13,13 +13,13 @@ observed_on: 2026-08-02
 |---|---:|---|
 | Ice | ~730,000 | new record on 2026-08-14; rounded |
 | Wind | ~736,000 | new record on 2026-08-13; rounded |
-| Lightning | ~820,000 | new record on 2026-08-14; full rewards; rounded |
+| Lightning | ~827,000 | new record on 2026-08-20; full rewards; rounded |
 
 - Exact confirmed total for the original completed rotation on 2026-08-02:
   **2,220,536**. This is historical and should not be recomputed from the newer
   per-element records above.
 - Lightning now exceeds the 800,000 full-reward target by approximately
-  **20,000**.
+  **27,000**.
 
 ## Known context
 
@@ -27,6 +27,9 @@ observed_on: 2026-08-02
   complete Lightning gear set produced the new approximately 820,000 record, an
   improvement of approximately 14,000 points (about 1.7%). The full
   **Mabel / Reina / Yeonhwa** team now wears Lightning sets.
+- The same Mabel / Reina / Yeonhwa team subsequently raised the Lightning record
+  from approximately 820,000 to approximately 827,000 on 2026-08-20
+  (`in_game`, user-provided). Changed run variables were not reported.
 - The prior Wind benchmark was approximately 722,000 with the tuned
   Esther / Jiwon / Bonnie team.
 - Swapping Bonnie for Nagi produced the new approximately 736,000 Wind record, an

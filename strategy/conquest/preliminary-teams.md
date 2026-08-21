@@ -14,10 +14,11 @@ As reported in game on 2026-08-02: **Lightning / Ice / Wind**.
 
 ## Lightning
 
-Current record team: **Mabel / Reina / Yeonhwa**, approximately 820,000 on
-2026-08-14 (`in_game`, user-provided). The whole team now wears Lightning gear;
+Current record team: **Mabel / Reina / Yeonhwa**, approximately 827,000 on
+2026-08-20 (`in_game`, user-provided). The whole team now wears Lightning gear;
 completing Reina's Lightning set coincided with an increase from approximately
-806,000 to 820,000. Rationale: Mabel field window, Reina contribution, and
+806,000 to 820,000, and the same team later reached 827,000. Rationale: Mabel
+field window, Reina contribution, and
 Yeonhwa's low-field-time/off-field utility. Candidate allocation: Gulgak on
 Yeonhwa, pending off-field proc and refresh tests. Average team crit rate is
 approximately 65% or higher (`in_game`, user-provided).
@@ -75,14 +76,16 @@ See `data/characters/earth/brishell.md` for the evidence boundary and kit data.
 
 ## Fire
 
-Angel is now A6F6 (`in_game`, user-provided, 2026-08-20). Compare Summer Verna /
-Angel / Leeho against Summer Verna / Angel / Summer Francis. Measure support
-amplification, personal damage, rotation cost, uptime, and field-time
-requirements; investment alone is not decisive.
+Current record team: **Summer Verna / Angel / Mina**, approximately 808,000 on
+2026-08-20 (`in_game`, user-provided). This reaches the maximum reward threshold,
+so treat Fire Conquest as solved unless allocation or consistency becomes a
+problem. Angel is A6F6; her optional extended Switch -> Basic -> Special window
+can be compared against the minimum-field-time Switch -> Special rotation only
+if further optimization becomes useful.
 
 Harmonious-banner conclusion (`hypothesis`): Flare A2 may warrant a controlled
 support comparison because it unlocks the shared 14% Fire DMG boost, but Flare A3
 primarily adds skill levels and Tag-out damage to a low-personal-damage unit. Do
-not expect A3 Flare's damage to displace A0 Mina or A5F6 Angel. Two Jiwon copies
+not expect A3 Flare's damage to displace A0 Mina or A6F6 Angel. Two Jiwon copies
 were therefore selected as the first Harmonious-banner result; because she was
 already A1, the actual destination was Jiwon A3.
