@@ -8,6 +8,12 @@ source_confidence: hypothesis
 
 Teams contain three characters. Cross-element support is allowed when account-level contribution exceeds the on-element alternative.
 
+## Current event status
+
+The event was fully cleared on 2026-08-20 with maximum rewards in Earth, Fire,
+and Lightning. See `testing/conquest-event-full-clear-2026-08-20.md`. Further
+optimization of these three scores is optional rather than progression-critical.
+
 ## Current Legendary rotation
 
 As reported in game on 2026-08-02: **Lightning / Ice / Wind**.
