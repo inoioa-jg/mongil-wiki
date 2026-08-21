@@ -54,7 +54,14 @@ Sangun / Esther / Jiwon against Esther / Nagi / Jiwon; do not assume the new
 
 ## Earth
 
-Compare Ellie / Francis / Narae against Ellie / Francis / Gabi. Determine whether Gabi's personal contribution offsets field time removed from A6F6 Ellie. Do not pair Francis with Summer Francis merely to layer their non-stacking support buffs.
+Current record team: **Brishell / Ellie / Summer Francis**, approximately
+819,000 on 2026-08-20 (`in_game`, user-provided). This is now the favored Earth
+Conquest lineup. The result establishes the lineup's account performance but
+does not by itself prove Summer Francis is stronger than regular Francis without
+an otherwise-controlled comparison.
+
+Do not pair Francis with Summer Francis merely to layer their non-stacking
+support buffs.
 
 Verified Narae contributions for Ellie: Special Skill Damage; at F1, Basic Attack Damage while Ellie is shielded (`in_game`).
 
@@ -64,7 +71,8 @@ DPS with permanent Earth-affliction access; the practical, high-uptime 10% DEF
 shred package begins at A1 (`community`, supported by the official preview
 summary). Her signature emphasizes Support and Switch contribution, but only
 its F5 preview values are currently recorded, not the owned F1 scaling. Prioritize
-Brishell / Ellie / Francis and Brishell / Ellie / Narae controlled comparisons.
+Brishell / Ellie / Francis as the next controlled comparison against the
+819,000 Summer Francis baseline.
 See `data/characters/earth/brishell.md` for the evidence boundary and kit data.
 
 ## Fire
