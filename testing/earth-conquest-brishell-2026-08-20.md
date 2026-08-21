@@ -9,14 +9,14 @@ observed_on: 2026-08-20
 
 ## Scored run
 
-- **Score:** approximately 819,000 (`in_game`, user-provided; rounded).
+- **Score:** approximately 819,000 (`in_game`, user-provided; rounded), reaching
+  the maximum reward threshold.
 - **Team:** Brishell / Ellie / Summer Francis.
 - **Investments:** Brishell A0F1, Ellie A6F6, Summer Francis A0F0.
 
-This is the account's current reported Earth Conquest record. It validates the
-lineup as a strong account result, but does not isolate Summer Francis's value
-against regular Francis because no otherwise-controlled comparison score was
-reported.
+This is the account's current reported Earth Conquest record and secures maximum
+rewards. A regular-Francis comparison is therefore not an optimization priority;
+it would only be useful for allocation, consistency, or survival questions.
 
 ## Unscored Total Eclipse attempt
 

@@ -56,9 +56,9 @@ Sangun / Esther / Jiwon against Esther / Nagi / Jiwon; do not assume the new
 
 Current record team: **Brishell / Ellie / Summer Francis**, approximately
 819,000 on 2026-08-20 (`in_game`, user-provided). This is now the favored Earth
-Conquest lineup. The result establishes the lineup's account performance but
-does not by itself prove Summer Francis is stronger than regular Francis without
-an otherwise-controlled comparison.
+Conquest lineup and reaches the maximum reward threshold. Treat Earth Conquest
+as solved; a regular-Francis comparison is unnecessary unless character
+allocation, consistency, or survivability becomes relevant.
 
 Do not pair Francis with Summer Francis merely to layer their non-stacking
 support buffs.
@@ -70,9 +70,7 @@ now indicate that A0 Brishell should be evaluated primarily as an on-field main
 DPS with permanent Earth-affliction access; the practical, high-uptime 10% DEF
 shred package begins at A1 (`community`, supported by the official preview
 summary). Her signature emphasizes Support and Switch contribution, but only
-its F5 preview values are currently recorded, not the owned F1 scaling. Prioritize
-Brishell / Ellie / Francis as the next controlled comparison against the
-819,000 Summer Francis baseline.
+its F5 preview values are currently recorded, not the owned F1 scaling.
 See `data/characters/earth/brishell.md` for the evidence boundary and kit data.
 
 ## Fire
