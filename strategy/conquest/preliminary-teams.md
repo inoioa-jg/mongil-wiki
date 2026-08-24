@@ -22,10 +22,11 @@ As reported in game on 2026-08-02: **Lightning / Ice / Wind**.
 
 ## Lightning
 
-Current record team: **Mabel / Reina / Yeonhwa**, approximately 827,000 on
-2026-08-20 (`in_game`, user-provided). The whole team now wears Lightning gear;
+Current record team: **Mabel / Reina / Yeonhwa**, approximately 885,000 on
+2026-08-23 (`in_game`, user-provided). The whole team now wears Lightning gear;
 completing Reina's Lightning set coincided with an increase from approximately
-806,000 to 820,000, and the same team later reached 827,000. Rationale: Mabel
+806,000 to 820,000; the same team later reached 827,000 and then 885,000.
+Rationale: Mabel
 field window, Reina contribution, and
 Yeonhwa's low-field-time/off-field utility. Candidate allocation: Gulgak on
 Yeonhwa, pending off-field proc and refresh tests. Average team crit rate is
