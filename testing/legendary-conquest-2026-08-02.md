@@ -12,7 +12,7 @@ observed_on: 2026-08-02
 | Element | Score | Status |
 |---|---:|---|
 | Ice | ~730,000 | new record on 2026-08-14; rounded |
-| Wind | ~736,000 | new record on 2026-08-13; rounded |
+| Wind | ~809,000 | new record on 2026-08-23; full rewards; rounded |
 | Lightning | ~827,000 | new record on 2026-08-20; full rewards; rounded |
 
 - Exact confirmed total for the original completed rotation on 2026-08-02:
@@ -35,6 +35,10 @@ observed_on: 2026-08-02
 - Swapping Bonnie for Nagi produced the new approximately 736,000 Wind record, an
   improvement of approximately 14,000 points (about 1.9%). Other run variables
   were not reported as controlled.
+- Jiwon / Nagi / Esther subsequently reached approximately 809,000 on
+  2026-08-23 (`in_game`, user-provided), an increase of approximately 73,000
+  points (about 9.9%) over the rounded 736,000 record and enough for maximum
+  rewards.
 - The prior Ice benchmark was approximately 691,000. The new approximately
   730,000 record is an improvement of approximately 39,000 points (about 5.6%).
   The confirmed lineup was **Ophelia / Cloud / Narae**. Rotation, equipment,

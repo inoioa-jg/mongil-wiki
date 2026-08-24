@@ -44,10 +44,10 @@ Ophelia in the record team.
 
 ## Wind
 
-Favored Legendary Conquest core: Esther / Jiwon / Nagi. Swapping Nagi into the
-previous Esther / Jiwon / Bonnie team raised the reported Wind score from
-approximately 722,000 to 736,000 on 2026-08-13 (`in_game`, user-provided). The
-tuned Bonnie version remains the recorded Raging Amon 10 baseline at 2:53. See
+Current Wind Conquest record: **Jiwon / Nagi / Esther**, approximately 809,000
+on 2026-08-23 (`in_game`, user-provided), reaching maximum rewards. This
+supersedes the approximately 736,000 record from the same three-character core.
+The tuned Bonnie version remains the recorded Raging Amon 10 baseline at 2:53. See
 `testing/legendary-conquest-2026-08-02.md` and
 `testing/raging-amon-10-wind-baseline.md`.
 
