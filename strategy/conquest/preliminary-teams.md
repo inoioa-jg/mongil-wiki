@@ -65,7 +65,7 @@ Sangun / Esther / Jiwon against Esther / Nagi / Jiwon; do not assume the new
 ## Earth
 
 Current record team: **Brishell / Ellie / Summer Francis**, approximately
-819,000 on 2026-08-20 (`in_game`, user-provided). This is now the favored Earth
+844,000 on 2026-08-24 (`in_game`, user-provided). This is now the favored Earth
 Conquest lineup and reaches the maximum reward threshold. Treat Earth Conquest
 as solved; a regular-Francis comparison is unnecessary unless character
 allocation, consistency, or survivability becomes relevant.

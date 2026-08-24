@@ -18,6 +18,9 @@ This is the account's current reported Earth Conquest record and secures maximum
 rewards. A regular-Francis comparison is therefore not an optimization priority;
 it would only be useful for allocation, consistency, or survival questions.
 
+This record was superseded by an approximately 844,000 run with the same
+reported team core on 2026-08-24. See `earth-conquest-2026-08-24.md`.
+
 ## Unscored Total Eclipse attempt
 
 The same play session reached **Total Eclipse**, but the attempt produced no
