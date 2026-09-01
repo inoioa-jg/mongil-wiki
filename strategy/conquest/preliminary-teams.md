@@ -11,7 +11,8 @@ Teams contain three characters. Cross-element support is allowed when account-le
 ## Current event status
 
 The event was fully cleared on 2026-08-20 with maximum rewards in Earth, Fire,
-and Lightning. The current exact high score is **2,541,785**. The preceding
+and Lightning; Ice subsequently crossed the 800,000 maximum-reward threshold
+on 2026-08-31. The current exact high score is **2,541,785**. The preceding
 2,455,687 result placed the account in the **top 7.6% worldwide**; placement for
 the new score has not been reported (`in_game`, user-provided). See
 `testing/conquest-event-full-clear-2026-08-20.md`. Further optimization of these
@@ -35,14 +36,15 @@ approximately 65% or higher (`in_game`, user-provided).
 
 ## Ice
 
-Current record team: **Ophelia / Cloud / Narae**, approximately 730,000 on
-2026-08-14 (`in_game`, user-provided). This supersedes Cloud / Sara / Narae as
-the favored lineup. Narae is A0F1, so credit her base Ice/Special amplification
-and artifact contribution, but not her A1 Ice RES reduction. Ophelia subsequently
-reached A2 through the Harmonious reroll on 2026-08-20, so the record should be
-retested. Sara subsequently reached A5F2 (`in_game`, user-provided, 2026-08-20);
-this increases her investment but does not by itself establish that she replaces
-Ophelia in the record team.
+Current record team: **Ophelia / Narae / Francis**, approximately 874,000 on
+2026-08-31 (`in_game`, user-provided), reaching maximum rewards. This supersedes
+the approximately 730,000 Ophelia / Cloud / Narae record by approximately
+144,000 points (about 19.7%) and establishes regular Francis as the current
+preferred third slot. Narae is A0F1, so credit her base Ice/Special amplification
+and artifact contribution, but not her A1 Ice RES reduction. Ophelia is A2F1
+after the accepted Harmonious result. Sara is A5F2 (`in_game`, user-provided,
+2026-08-20), but that investment does not by itself establish that she replaces
+any member of the record team.
 
 ## Wind
 
@@ -66,7 +68,7 @@ Sangun / Esther / Jiwon against Esther / Nagi / Jiwon; do not assume the new
 ## Earth
 
 Current record team: **Brishell / Ellie / Summer Francis**, approximately
-844,000 on 2026-08-24 (`in_game`, user-provided). This is now the favored Earth
+862,000 on 2026-08-31 (`in_game`, user-provided). This is now the favored Earth
 Conquest lineup and reaches the maximum reward threshold. Treat Earth Conquest
 as solved; a regular-Francis comparison is unnecessary unless character
 allocation, consistency, or survivability becomes relevant.
