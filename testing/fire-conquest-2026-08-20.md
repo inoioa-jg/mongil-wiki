@@ -9,7 +9,7 @@ observed_on: 2026-08-20
 
 - **Score:** approximately 808,000 (`in_game`, user-provided; rounded).
 - **Team:** Summer Verna / Angel / Mina.
-- **Investments:** Summer Verna A2F6, Angel A6F6, Mina A0F0.
+- **Investments:** Summer Verna A2F1, Angel A6F6, Mina A0F0.
 - **Reward status:** maximum reward threshold reached.
 
 This is the first Fire Conquest score preserved in the repository and is the

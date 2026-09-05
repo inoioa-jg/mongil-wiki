@@ -5,7 +5,7 @@ Confidence: `in_game` (user-provided account state)
 
 | Element | Character | Awakening | Fate |
 |---|---|---:|---:|
-| Fire | Summer Verna | A2 | F6 |
+| Fire | Summer Verna | A2 | F1 |
 | Fire | Verna | A2 | unknown |
 | Fire | Angel | A6 | F6 |
 | Fire | Flare | A1 | F0 |
