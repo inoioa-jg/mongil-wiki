@@ -15,8 +15,12 @@ Leeho's base loop uses Prey Mark → charged Flash Spear → Tiger Hunter enhanc
 Owned A4 includes the A1 Special-net Prey Mark; A2 Basic Attack 4th-hit Prey
 Mark and stacking Basic Attack Damage; A3 skill levels and 6% Basic Attack
 Damage; and A4's two-second Tiger Hunter extension plus 30% increased total
-Enhanced Basic Attack damage. The account's F2 signature effects remain
-untranscribed. The additional 10% Fire RES reduction is still locked behind A6
-and must not be credited to this account.
+Enhanced Basic Attack damage. The owned F6 Tiger Hunter's Resolve provides 4%
+Basic Attack and Switch Skill Damage per stack after landing Fire attacks, up
+to five stacks (20% total), while decreasing Special Skill Damage by 10%. The
+additional 10% Fire RES reduction is still locked behind A6 and must not be
+credited to this account.
+
+Artifact source: [Kaiden — Tiger Hunter's Resolve](https://www.kaiden.gg/mongil/artifacts/tiger-hunters-resolve/), checked 2026-09-06.
 
 Support rotation is intro → Special → swap, but realizing Hunting Stance/Blazing Flash adds a later tag-in and field-time cost.
