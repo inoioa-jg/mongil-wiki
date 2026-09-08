@@ -47,7 +47,7 @@ quality, artifacts, and execution can dominate the comparison.
 
 ## Account-specific conclusion
 
-For the current account (Esther A0F0, Nagi A0F1, Jiwon A0F1, Bonnie A6F6,
+For the current account (Esther A0F0, Nagi A0F1, Jiwon A4F1, Bonnie A6F6,
 Summer Francis A0F0, Narae A0F1):
 
 1. **First Awakened Amon trial: Esther / Nagi / Jiwon.** It preserves the proven

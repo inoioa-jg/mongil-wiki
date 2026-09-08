@@ -100,4 +100,6 @@ support comparison because it unlocks the shared 14% Fire DMG boost, but Flare A
 primarily adds skill levels and Tag-out damage to a low-personal-damage unit. Do
 not expect A3 Flare's damage to displace A0 Mina or A6F6 Angel. Two Jiwon copies
 were therefore selected as the first Harmonious-banner result; because she was
-already A1, the actual destination was Jiwon A3.
+already A1, the actual destination was Jiwon A3. Jiwon subsequently reached
+A4F1 on 2026-09-07 (`in_game`, user-provided), unlocking her enhanced Tier 3
+Divine Harmony setup; the 809,000 record predates this upgrade.

@@ -9,7 +9,13 @@ last_verified_patch: 2026-07-09
 
 ## Account state
 
-Owned at A0F1. Her signature artifact is **Melody Played on Heartstrings**.
+Owned at A4F1. Her signature artifact is **Melody Played on Heartstrings**.
+
+At A4, Basic Attack, Special Skill, and Ultimate Skill grant 3, 6, and 12
+Melody counts respectively. Her enhanced Divine Harmony Tier 3 adds further
+Wind DMG and 5% ATK, and her Ultimate Gauge Charge increases by 20%. Combined
+with A1's three additional counts on switch-out, Special -> swap reliably
+reaches the nine-count Tier 3 threshold.
 
 At F1, using a Switch Skill grants Vitality to Jiwon and her teammates. While
 Stamina is at least 90%, Vitality gains one stack per second; each stack adds
