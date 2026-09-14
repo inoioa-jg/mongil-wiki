@@ -11,6 +11,7 @@ Confidence: `in_game` (user-provided account state)
 | Fire | Flare | A1 | F0 |
 | Fire | Mina | A0 | F0 |
 | Fire | Leeho | A4 | F6 |
+| Fire | Vivian | A1 | unknown |
 | Lightning | Mabel | A1 | F1 |
 | Lightning | Reina | A6 | F6 |
 | Lightning | Yeonhwa | A6 | F6 |
