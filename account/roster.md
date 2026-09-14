@@ -1,6 +1,6 @@
 # Account roster
 
-Last updated: 2026-08-20  
+Last updated: 2026-09-14
 Confidence: `in_game` (user-provided account state)
 
 | Element | Character | Awakening | Fate |
@@ -11,7 +11,7 @@ Confidence: `in_game` (user-provided account state)
 | Fire | Flare | A1 | F0 |
 | Fire | Mina | A0 | F0 |
 | Fire | Leeho | A4 | F6 |
-| Fire | Vivian | A1 | unknown |
+| Fire | Vivian | A1 | F0 |
 | Lightning | Mabel | A1 | F1 |
 | Lightning | Reina | A6 | F6 |
 | Lightning | Yeonhwa | A6 | F6 |

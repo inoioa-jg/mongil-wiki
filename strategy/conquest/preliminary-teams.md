@@ -88,12 +88,13 @@ See `data/characters/earth/brishell.md` for the evidence boundary and kit data.
 
 ## Fire
 
-Current record team: **Summer Verna / Angel / Mina**, approximately 808,000 on
-2026-08-20 (`in_game`, user-provided). This reaches the maximum reward threshold,
-so treat Fire Conquest as solved unless allocation or consistency becomes a
-problem. Angel is A6F6; her optional extended Switch -> Basic -> Special window
-can be compared against the minimum-field-time Switch -> Special rotation only
-if further optimization becomes useful.
+Current record team: **Angel / Summer Verna / Vivian**, approximately 955,000 on
+2026-09-14 (`in_game`, user-provided). Vivian is A1F0. This supersedes the
+approximately 808,000 Summer Verna / Angel / Mina record and firmly clears the
+maximum reward threshold. Treat Fire Conquest as solved unless allocation or
+consistency becomes a problem. The result establishes Vivian as the current
+record support but does not isolate the value of her signature artifact or A1
+from other run variables.
 
 Harmonious-banner conclusion (`hypothesis`): Flare A2 may warrant a controlled
 support comparison because it unlocks the shared 14% Fire DMG boost, but Flare A3

@@ -11,8 +11,7 @@ sources: [https://www.kaiden.gg/mongil/characters/vivian/]
 
 # Vivian
 
-Owned at A1; signature-artifact ownership is unknown (`in_game`, user-provided,
-2026-09-14).
+Owned at A1F0 (`in_game`, user-provided, 2026-09-14).
 
 Vivian is a melee Fire support. Her Special deals Fire DMG, grants Spectacular
 Stage, reduces team damage taken, and heals based on her Max HP (11.8s
@@ -26,8 +25,13 @@ At owned A1, triggering Vivian's Support Skill extends Spectacular Stage by 5s
 and summons backup dancers that increase all teammates' ATK by 5.4% for 15s.
 This is a meaningful uptime and team-buff breakpoint.
 
-Primary account hypothesis: test Vivian with melee Fire teammates Summer Verna
-A1F1 and Leeho A4F6. Angel, Mina, and Flare are ranged and therefore do not
-receive Vivian's melee-only passive Fire DMG conversion, though they still
-receive her all-team effects. Do not conclude that Vivian replaces Francis or
-Angel until live team-score and survivability comparisons are recorded.
+Vivian's first recorded Conquest result was approximately 955,000 with Summer
+Verna A1F1 and Angel A6F6. Although Angel is ranged and does not receive
+Vivian's melee-only passive Fire DMG conversion, the lineup exceeded the prior
+Summer Verna / Angel / Mina record by approximately 147,000. This establishes
+Vivian as the account's current Fire-record support; it does not isolate how
+much of the gain came from Vivian, her signature, equipment, rotation, or other
+run-to-run variables.
+
+Leeho A4F6 remains a plausible second melee teammate for a controlled Vivian
+test, but it has not displaced the record lineup.
