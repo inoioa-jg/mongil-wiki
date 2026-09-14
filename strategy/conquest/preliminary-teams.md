@@ -36,10 +36,10 @@ approximately 65% or higher (`in_game`, user-provided).
 
 ## Ice
 
-Current record team: **Ophelia / Narae / Francis**, approximately 874,000 on
-2026-08-31 (`in_game`, user-provided), reaching maximum rewards. This supersedes
-the approximately 730,000 Ophelia / Cloud / Narae record by approximately
-144,000 points (about 19.7%) and establishes regular Francis as the current
+Current record team: **Ophelia / Narae / Francis**, approximately 892,000 on
+2026-09-14 (`in_game`, user-provided), reaching maximum rewards. This improves
+on the same team's previous 874,000 record by approximately 18,000 points
+(about 2.1%) and establishes regular Francis as the current
 preferred third slot. Narae is A0F1, so credit her base Ice/Special amplification
 and artifact contribution, but not her A1 Ice RES reduction. Ophelia is A2F1
 after the accepted Harmonious result. Sara is A5F2 (`in_game`, user-provided,
