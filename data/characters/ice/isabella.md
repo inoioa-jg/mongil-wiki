@@ -13,7 +13,7 @@ sources:
 ---
 # Isabella
 
-Owned A0F0 (`in_game`, user-provided, 2026-09-30).
+Owned A0F1 (`in_game`, user-provided, 2026-09-30).
 
 Isabella is a ranged Ice Destroyer built around Energy, an Ultimate-created Ice
 Field, Basic Attack explosions/lasers, and some damage that continues after she
@@ -37,7 +37,7 @@ signature is still recorded as F0, but its boss value is provisional.
 
 ## Account hypothesis
 
-The first controlled comparison should be Isabella / Narae A2F1 / Francis or
+The first controlled comparison should be Isabella A0F1 / Narae A2F1 / Francis or
 Summer Francis against the established Ophelia A2F1 Ice core. Narae's newly
 owned A1/A2 effects materially strengthen either Ice carry, so do not attribute
 an improved score to Isabella without running the same supports and equipment

@@ -43,7 +43,7 @@ on the same team's previous 874,000 record by approximately 18,000 points
 preferred third slot. Narae is now A2F1, adding her A1 Ice RES reduction and
 A2 team ATK/extension effects to the previously recorded base amplification and
 artifact contribution. Ophelia is A2F1 after the accepted Harmonious result.
-Isabella A0F0 is a new controlled-test candidate, but early live reports say
+Isabella A0F1 is a new controlled-test candidate, but early live reports say
 her Freeze-dependent passive/artifact effects may not function against bosses.
 Sara is A5F2 (`in_game`, user-provided,
 2026-08-20), but that investment does not by itself establish that she replaces
