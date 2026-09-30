@@ -1,6 +1,6 @@
 # Account roster
 
-Last updated: 2026-09-14
+Last updated: 2026-09-30
 Confidence: `in_game` (user-provided account state)
 
 | Element | Character | Awakening | Fate |
@@ -8,7 +8,7 @@ Confidence: `in_game` (user-provided account state)
 | Fire | Summer Verna | A1 | F1 |
 | Fire | Verna | A2 | unknown |
 | Fire | Angel | A6 | F6 |
-| Fire | Flare | A1 | F0 |
+| Fire | Flare | A3 | F0 |
 | Fire | Mina | A0 | F0 |
 | Fire | Leeho | A4 | F6 |
 | Fire | Vivian | A1 | F0 |
@@ -26,7 +26,8 @@ Confidence: `in_game` (user-provided account state)
 | Ice | Cloud | A6 | F6 |
 | Ice | Sara | A5 | F2 |
 | Ice | Ophelia | A2 | F1 |
-| Ice | Narae | A0 | F1 |
+| Ice | Narae | A2 | F1 |
+| Ice | Isabella | A0 | F0 |
 | Wind | Bonnie | A6 | F6 |
 | Wind | Nagi | A0 | F1 |
 | Wind | Jiwon | A4 | F1 |

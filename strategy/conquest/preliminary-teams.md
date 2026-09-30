@@ -40,9 +40,12 @@ Current record team: **Ophelia / Narae / Francis**, approximately 892,000 on
 2026-09-14 (`in_game`, user-provided), reaching maximum rewards. This improves
 on the same team's previous 874,000 record by approximately 18,000 points
 (about 2.1%) and establishes regular Francis as the current
-preferred third slot. Narae is A0F1, so credit her base Ice/Special amplification
-and artifact contribution, but not her A1 Ice RES reduction. Ophelia is A2F1
-after the accepted Harmonious result. Sara is A5F2 (`in_game`, user-provided,
+preferred third slot. Narae is now A2F1, adding her A1 Ice RES reduction and
+A2 team ATK/extension effects to the previously recorded base amplification and
+artifact contribution. Ophelia is A2F1 after the accepted Harmonious result.
+Isabella A0F0 is a new controlled-test candidate, but early live reports say
+her Freeze-dependent passive/artifact effects may not function against bosses.
+Sara is A5F2 (`in_game`, user-provided,
 2026-08-20), but that investment does not by itself establish that she replaces
 any member of the record team.
 
@@ -96,11 +99,11 @@ consistency becomes a problem. The result establishes Vivian as the current
 record support but does not isolate the value of her signature artifact or A1
 from other run variables.
 
-Harmonious-banner conclusion (`hypothesis`): Flare A2 may warrant a controlled
-support comparison because it unlocks the shared 14% Fire DMG boost, but Flare A3
-primarily adds skill levels and Tag-out damage to a low-personal-damage unit. Do
-not expect A3 Flare's damage to displace A0 Mina or A6F6 Angel. Two Jiwon copies
-were therefore selected as the first Harmonious-banner result; because she was
+Flare is now A3F0. She owns the A2 shared 14% Fire DMG boost; A3 primarily adds
+skill levels and Tag-out damage. A controlled comparison is now possible, but
+do not assume her personal damage displaces A6F6 Angel or that her support
+package displaces A1F0 Vivian in the current 955,000 record team. Two Jiwon
+copies were selected as the first Harmonious-banner result; because she was
 already A1, the actual destination was Jiwon A3. Jiwon subsequently reached
 A4F1 on 2026-09-07 (`in_game`, user-provided), unlocking her enhanced Tier 3
 Divine Harmony setup; the 809,000 record predates this upgrade.

@@ -29,4 +29,9 @@ sources: [https://www.kaiden.gg/mongil/characters/narae/]
 
 ## Account-relevant properties
 
-Owned A0F1 Narae requires effectively one Special input then swap. For Ellie, the verified effects are Special Skill Damage and, from F1, Basic Attack Damage while shielded (`in_game`). Do not apply the A1 Ice RES shred or A2 ATK buff to this account.
+Owned A2F1 Narae requires effectively one Special input then swap. The account
+now owns both major early support breakpoints: A1 lets any teammate applying
+Ice Affliction apply 15% Ice RES reduction for 5s, while A2 grants the team
++22% ATK for 20s when Narae is shielded and extends her enhancements by 6s.
+For Ellie, the verified effects also include Special Skill Damage and, from F1,
+Basic Attack Damage while shielded (`in_game`).
