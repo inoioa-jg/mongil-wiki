@@ -36,6 +36,13 @@ approximately 65% or higher (`in_game`, user-provided).
 
 ## Ice
 
+Current Sorin record team: **Ophelia / Isabella / Narae**, approximately
+950,000 on 2026-10-02 (`in_game`, user-provided). This is the first recorded
+Sorin Ice result and establishes Isabella as the successful third slot for this
+encounter. It does not by itself prove that Isabella universally replaces
+Francis, because the preceding result was recorded against a different
+Legendary Monster. See `testing/sorin-ice-conquest-2026-10-02.md`.
+
 Current record team: **Ophelia / Narae / Francis**, approximately 892,000 on
 2026-09-14 (`in_game`, user-provided), reaching maximum rewards. This improves
 on the same team's previous 874,000 record by approximately 18,000 points
