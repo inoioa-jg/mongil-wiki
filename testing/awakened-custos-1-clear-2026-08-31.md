@@ -19,3 +19,6 @@ slot for both Ice scoring and early Awakened Custos progression.
 
 Artifact, equipment, Monsterling, food, and execution details for the clear were
 not reported and remain unknown.
+
+Superseded as the account's highest recorded Custos difficulty by the
+[Awakened Custos 5 clear](awakened-custos-5-clear-2026-10-03.md) on 2026-10-03.
