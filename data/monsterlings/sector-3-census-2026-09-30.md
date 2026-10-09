@@ -67,7 +67,9 @@ Names are translations/transliterations until confirmed in the English client.
   introduces at least two Wind RES reduction effects. The current account uses
   Clean Hoarder on Jiwon and Oblivion on Esther as staggered uptime sources.
   They are expected to overlap without stacking, maintaining approximately
-  11.55% reduction rather than producing a 23.1% spike (`hypothesis`).
+  11.55% reduction rather than producing a 23.1% spike. The account's rotation
+  is Jiwon -> Nagi -> Esther, so Clean Hoarder may expire during Nagi's field
+  window before Esther refreshes the shred with Oblivion (`hypothesis`).
 
 ## Extracted records
 

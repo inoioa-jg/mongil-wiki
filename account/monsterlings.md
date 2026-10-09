@@ -37,8 +37,11 @@ Known Lightning monsterlings discussed for allocation: Hahnul, Gulgak, Scar.
   Nagi can create stagger windows.
 - Clean Hoarder and Oblivion are expected to overlap without stacking: the
   target remains at approximately 11.55% Wind RES reduction rather than
-  reaching approximately 23.1%. This is intentional uptime coverage. Clean
-  Hoarder activates during Jiwon's support phase, while Oblivion activates from
-  Esther's Wind Special Skill during her damage phase, aiming to maintain a
-  nearly constant reduction across the rotation (`hypothesis`, user-provided,
-  2026-10-09). Exact duration and any gaps still require observation.
+  reaching approximately 23.1%. The actual rotation is **Jiwon -> Nagi ->
+  Esther** because Jiwon's character buffs last through the whole rotation.
+  Clean Hoarder activates during Jiwon's opening and covers at least the early
+  Nagi phase; Oblivion does not activate until Esther enters and uses her Wind
+  Special Skill. A Wind RES-shred gap can therefore occur during the later Nagi
+  phase if Clean Hoarder expires before Esther's Special (`hypothesis`,
+  user-provided, 2026-10-09). The two Monsterlings extend overall coverage but
+  do not guarantee literally continuous reduction.
