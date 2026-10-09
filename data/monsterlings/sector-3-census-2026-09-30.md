@@ -64,8 +64,10 @@ Names are translations/transliterations until confirmed in the English client.
   a personal damage slot. Trigger ownership, uptime, and duplicate debuff
   stacking remain unknown.
 - **Clean Hoarder and Oblivion answer the previous Wind-team gap:** Sector 3
-  introduces at least two Wind RES reduction effects. Putative support holders
-  are Jiwon or Nagi, but the two effects may share a non-stacking debuff family.
+  introduces at least two Wind RES reduction effects. The current account uses
+  Clean Hoarder on Jiwon and Oblivion on Esther as staggered uptime sources.
+  They are expected to overlap without stacking, maintaining approximately
+  11.55% reduction rather than producing a 23.1% spike (`hypothesis`).
 
 ## Extracted records
 

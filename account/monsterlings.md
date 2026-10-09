@@ -35,6 +35,10 @@ Known Lightning monsterlings discussed for allocation: Hahnul, Gulgak, Scar.
   Rate.
 - El Dorado Guardian is more credible here than on a no-Destroyer lineup because
   Nagi can create stagger windows.
-- Whether Clean Hoarder and Oblivion's equal 11.55% Wind RES reductions stack,
-  overwrite, or only extend coverage remains `unknown` and is the primary
-  controlled-test target.
+- Clean Hoarder and Oblivion are expected to overlap without stacking: the
+  target remains at approximately 11.55% Wind RES reduction rather than
+  reaching approximately 23.1%. This is intentional uptime coverage. Clean
+  Hoarder activates during Jiwon's support phase, while Oblivion activates from
+  Esther's Wind Special Skill during her damage phase, aiming to maintain a
+  nearly constant reduction across the rotation (`hypothesis`, user-provided,
+  2026-10-09). Exact duration and any gaps still require observation.
