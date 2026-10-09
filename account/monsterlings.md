@@ -17,3 +17,24 @@ Known Lightning monsterlings discussed for allocation: Hahnul, Gulgak, Scar.
   user-provided, 2026-08-20). This is a second Ice Fist Dude, separate from
   Summer Verna's copy. Duoxini should occupy the Link slot; exact equipped slot
   order has not been explicitly confirmed.
+- **Jiwon:** Clean Hoarder, Silbinator, Gulgak (`in_game`, user-provided,
+  2026-10-09).
+- **Nagi:** El Dorado Guardian, Amon, Golden Fist Dude (`in_game`,
+  user-provided, 2026-10-09).
+- **Esther:** Nagi, Ice Fist Dude, Oblivion (`in_game`, user-provided,
+  2026-10-09). Here, “Nagi” refers to the Monsterling, not the character.
+
+## Wind allocation notes
+
+- Clean Hoarder and Gulgak put Wind RES reduction and DEF reduction on Jiwon,
+  preserving Esther's slots for carry effects.
+- Golden Fist Dude grants Attack Neutralization DMG +11.6% when attacking with
+  Elemental Weakness. It aligns with Nagi's Destroyer role and Ultimate-applied
+  Wind Weakness.
+- Amon is easy for Nagi's multi-hit sequence to activate and supplies team Crit
+  Rate.
+- El Dorado Guardian is more credible here than on a no-Destroyer lineup because
+  Nagi can create stagger windows.
+- Whether Clean Hoarder and Oblivion's equal 11.55% Wind RES reductions stack,
+  overwrite, or only extend coverage remains `unknown` and is the primary
+  controlled-test target.
