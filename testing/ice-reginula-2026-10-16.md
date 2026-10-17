@@ -10,7 +10,8 @@ source_confidence: in_game
 - **Score:** approximately 1,022,000 (reported as 1.022M).
 - **Boss:** Reginula.
 - **Element:** Ice.
-- **Team and investments:** `unknown` for this run; not explicitly confirmed.
+- **Team:** Ophelia / Isabella / Narae (confirmed by user).
+- **Investments:** `unknown` for this run.
 - **Source:** user report, 2026-10-16.
 
 This improves on the preceding recorded 892,000 Ice Reginula result by

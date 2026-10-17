@@ -37,8 +37,9 @@ approximately 65% or higher (`in_game`, user-provided).
 ## Ice
 
 Current Reginula Ice record: **approximately 1,022,000**, reported on
-2026-10-16 (`in_game`, user-provided). Team and investments were not specified
-for this run. See `testing/ice-reginula-2026-10-16.md`.
+2026-10-16 with **Ophelia / Isabella / Narae** (`in_game`, user-provided).
+Current investments were not specified for this run. See
+`testing/ice-reginula-2026-10-16.md`.
 
 Current Sorin record team: **Ophelia / Isabella / Narae**, approximately
 950,000 on 2026-10-02 (`in_game`, user-provided). This is the first recorded
