@@ -1,6 +1,6 @@
 # Account roster
 
-Last updated: 2026-09-30
+Last updated: 2026-10-23 (Chloe ownership confirmed; other investments unchanged)
 Confidence: `in_game` (user-provided account state)
 
 | Element | Character | Awakening | Fate |
@@ -33,3 +33,4 @@ Confidence: `in_game` (user-provided account state)
 | Wind | Jiwon | A4 | F1 |
 | Wind | Esther | A0 | F0 |
 | Wind | Sangun | A0 | unknown |
+| Wind | Chloe | unknown | unknown |

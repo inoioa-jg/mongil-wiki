@@ -63,6 +63,9 @@ any member of the record team.
 
 ## Wind
 
+Current Sorin Wind record: **Chloe / Jiwon / Esther**, approximately 958,000,
+reported 2026-10-23 (`in_game`). See `testing/sorin-wind-fire-2026-10-23.md`.
+
 Current Wind Conquest record: **Jiwon / Nagi / Esther**, approximately 809,000
 on 2026-08-23 (`in_game`, user-provided), reaching maximum rewards. This
 supersedes the approximately 736,000 record from the same three-character core.
@@ -102,6 +105,10 @@ its F5 preview values are currently recorded, not the owned F1 scaling.
 See `data/characters/earth/brishell.md` for the evidence boundary and kit data.
 
 ## Fire
+
+Current Sorin Fire record: **Angel / Summer Verna / Vivian**, approximately
+1,012,000, reported 2026-10-23 (`in_game`). See
+`testing/sorin-wind-fire-2026-10-23.md`.
 
 Current record team: **Angel / Summer Verna / Vivian**, approximately 955,000 on
 2026-09-14 (`in_game`, user-provided). Vivian is A1F0. This supersedes the
