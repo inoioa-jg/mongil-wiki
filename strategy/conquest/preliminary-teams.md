@@ -106,11 +106,15 @@ See `data/characters/earth/brishell.md` for the evidence boundary and kit data.
 
 ## Fire
 
+Current Reginula Fire record: **Angel / M.A.D. / Vivian**, approximately
+985,000, reported 2026-11-21 (`in_game`, user-provided). See
+`testing/fire-reginula-2026-11-21.md`. This supersedes the 955,000 record below.
+
 Current Sorin Fire record: **Angel / Summer Verna / Vivian**, approximately
 1,012,000, reported 2026-10-23 (`in_game`). See
 `testing/sorin-wind-fire-2026-10-23.md`.
 
-Current record team: **Angel / Summer Verna / Vivian**, approximately 955,000 on
+Previous Reginula record team: **Angel / Summer Verna / Vivian**, approximately 955,000 on
 2026-09-14 (`in_game`, user-provided). Vivian is A1F0. This supersedes the
 approximately 808,000 Summer Verna / Angel / Mina record and firmly clears the
 maximum reward threshold. Treat Fire Conquest as solved unless allocation or
