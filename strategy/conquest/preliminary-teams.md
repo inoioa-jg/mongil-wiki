@@ -63,10 +63,14 @@ any member of the record team.
 
 ## Wind
 
+Current Reginula Wind record: **Chloe / Jiwon / Esther**, approximately
+1,050,000, reported 2026-11-24 (`in_game`, user-provided). See
+`testing/wind-reginula-2026-11-24.md`.
+
 Current Sorin Wind record: **Chloe / Jiwon / Esther**, approximately 958,000,
 reported 2026-10-23 (`in_game`). See `testing/sorin-wind-fire-2026-10-23.md`.
 
-Current Wind Conquest record: **Jiwon / Nagi / Esther**, approximately 809,000
+Previous Reginula Wind record: **Jiwon / Nagi / Esther**, approximately 809,000
 on 2026-08-23 (`in_game`, user-provided), reaching maximum rewards. This
 supersedes the approximately 736,000 record from the same three-character core.
 The tuned Bonnie version remains the recorded Raging Amon 10 baseline at 2:53. See
