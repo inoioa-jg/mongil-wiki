@@ -89,8 +89,13 @@ Sangun / Esther / Jiwon against Esther / Nagi / Jiwon; do not assume the new
 
 ## Earth
 
+Current Reginula Earth record: **Brishell / Ellie / Summer Francis**,
+approximately 898,000, reported 2026-11-24 (`in_game`, user-provided). See
+`testing/earth-reginula-2026-11-24.md`.
+
 Current record team: **Brishell / Ellie / Summer Francis**, approximately
-862,000 on 2026-08-31 (`in_game`, user-provided). This is now the favored Earth
+862,000 on 2026-08-31 (`in_game`, user-provided), superseded by the 898,000
+record above. This is the established Earth
 Conquest lineup and reaches the maximum reward threshold. Treat Earth Conquest
 as solved; a regular-Francis comparison is unnecessary unless character
 allocation, consistency, or survivability becomes relevant.
